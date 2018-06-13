@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(457): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(459): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(469): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(474): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(502): warning C4305: 'argument': truncation from '__int64' to 'unsigned int'
+c:\users\jaroszbartosz\desktop\gk\zajecia 9\zad1\main.cpp(502): warning C4309: 'argument': truncation of constant value
+  targa.cpp
+  Generating Code...
+  zad1.vcxproj -> C:\Users\JaroszBartosz\Desktop\GK\Zajecia 9\Debug\zad1.exe
